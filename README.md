@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/Him
 
 Let's code the future together!
+
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/jaigonza?1337Badge=off&42Network=off&UM6P=off" alt="jaigonza's 42 stats" /></a>
 </p>
