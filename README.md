@@ -4,7 +4,7 @@
 
 <h2 align="left"> About me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwcmRwYzlxbzN5MW04cnRkOG94NmtjOTBtdGFxMmV4ZnFxMzhtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R3d4tHCUqTqb6/giphy.gif" width="50"> </h2>
 
-👋 Hi there! I'm Jaime González Fernández, currently pursuing software development at 42Madrid and working towards my AWS Cloud certification. I have a passion for coding, problem-solving, and exploring new technologies. My goal is to leverage my skills to create innovative solutions that make a positive impact. Let's connect and collaborate on exciting projects!
+👋 Hi there! I'm Jaime González Fernández, currently pursuing software development at [42Madrid](https://www.42madrid.com/) and working towards my AWS Cloud certification. I have a passion for coding, problem-solving, and exploring new technologies. My goal is to leverage my skills to create innovative solutions that make a positive impact. Let's connect and collaborate on exciting projects!
 
 - 🌱 Currently learning: AWS Cloud services, advanced data structures, and algorithms.
 - 💬 Ask me about: My journey into software development, project collaborations, or anything tech-related!
