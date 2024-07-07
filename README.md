@@ -12,6 +12,10 @@
 - 😄 Pronouns: He/Him
 
 Let's code the future together!
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/jaigonza?1337Badge=off&42Network=off&UM6P=off" alt="jaigonza's 42 stats" /></a>
+</p>
+
 
 <h2 align="left"> Tech Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ4dmFkcWpmdnNqMHU5b3k5d3ViOW5nMXlkcndiMGVueHU2eTR3NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gnahh8tvdlrymDpHB4/giphy.gif" width="50"/> </h2>
  
