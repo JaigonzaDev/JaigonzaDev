@@ -3,6 +3,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/3oz8xRQiRlaS1XwnPW/giphy.gif?cid=ecf05e47pzwq7ejfj368p82qe3o30rqkrtka0hw4zaprosn5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/> </h1>
 
 <h2 align="left"> Ab☀️ut me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwcmRwYzlxbzN5MW04cnRkOG94NmtjOTBtdGFxMmV4ZnFxMzhtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R3d4tHCUqTqb6/giphy.gif" width="50"> </h2>
+
 <p>
 👋 Hi there! I'm Jaime González Fernández, currently pursuing software development at [42Madrid](https://www.42madrid.com/) and working towards my AWS Cloud certification. I have a passion for coding, problem-solving, and exploring new technologies. My goal is to leverage my skills to create innovative solutions that make a positive impact. Let's connect and collaborate on exciting projects!
 
