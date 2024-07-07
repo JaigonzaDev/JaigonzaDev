@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/3oz8xRQiRlaS1XwnPW/giphy.gif?cid=ecf05e47pzwq7ejfj368p82qe3o30rqkrtka0hw4zaprosn5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/> </h1>
 
 <h2 align="left"> Ab☀️ut me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwcmRwYzlxbzN5MW04cnRkOG94NmtjOTBtdGFxMmV4ZnFxMzhtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R3d4tHCUqTqb6/giphy.gif" width="50"> </h2>
-
+<p>
 👋 Hi there! I'm Jaime González Fernández, currently pursuing software development at [42Madrid](https://www.42madrid.com/) and working towards my AWS Cloud certification. I have a passion for coding, problem-solving, and exploring new technologies. My goal is to leverage my skills to create innovative solutions that make a positive impact. Let's connect and collaborate on exciting projects!
 
 - 🌱 Currently learning: AWS Cloud services, advanced data structures, and algorithms.
@@ -12,7 +12,22 @@
 - 😄 Pronouns: He/Him
 
 Let's code the future together!
+</p>
 
+<h2 align="left"> </h2>
+<div align="center">
+	
+| 💻 Project | 📝 Documentation | 💯 Score |
+|:------:|:-------:|:------------------:|
+| Libft | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+| Born2beroot | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Born2BeRoot#readme) | - |
+|  Get_next_line | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Get_Next_Line#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+|  Ft_printf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Ft_printf#readme) | [![114](https://img.shields.io/badge/114-2ea44f)]() |
+|  Fdf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/So_long#readme) | - |
+|  Push_swap | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Push_swap#readme) | - |
+|  Mini_talk | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Pipex#readme) | - |
+
+</div>
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/jaigonza?1337Badge=off&42Network=off&UM6P=off" alt="jaigonza's 42 stats" /></a>
 </p>
