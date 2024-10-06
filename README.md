@@ -21,7 +21,7 @@ Let's code the future together!
 | 💻 Project | 📝 Documentation | 💯 Score |
 |:------:|:-------:|:------------------:|
 | Libft | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
-| Born2beroot | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Born2beRoot) | - |[![125](https://img.shields.io/badge/125-2ea44f)]()
+| Born2beroot | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Born2beRoot) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 |  Get_next_line | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)]() | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 |  Ft_printf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)]() | [![114](https://img.shields.io/badge/114-2ea44f)]() |
 |  Fdf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)]() | - |
