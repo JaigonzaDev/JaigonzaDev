@@ -1,6 +1,5 @@
-# <h1 align="center">  🌴Hi, I'm Jaim🐢🌴 </h1> 
+# <h1 align="center">  🌴Hi, I'm Jaime🌴 </h1> 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/3oz8xRQiRlaS1XwnPW/giphy.gif?cid=ecf05e47pzwq7ejfj368p82qe3o30rqkrtka0hw4zaprosn5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/> </h1>
 
 <h2 align="left"> Ab☀️ut me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwcmRwYzlxbzN5MW04cnRkOG94NmtjOTBtdGFxMmV4ZnFxMzhtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R3d4tHCUqTqb6/giphy.gif" width="50"> </h2>
 
