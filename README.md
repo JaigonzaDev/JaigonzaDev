@@ -1,51 +1,56 @@
-# <h1 align="center">  🌴Hi, I'm Jaime🌴 </h1> 
+
+![BannerGithub](https://github.com/user-attachments/assets/e3559fbb-8d1d-4376-94d4-6adce0b8aef7)
 
 
-<h2 align="left"> Ab☀️ut me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwcmRwYzlxbzN5MW04cnRkOG94NmtjOTBtdGFxMmV4ZnFxMzhtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/R3d4tHCUqTqb6/giphy.gif" width="50"> </h2>
+---
 
+## 🎩 About Me
 
-👋 Hi there! I'm Jaime González Fernández, currently pursuing software development at [42Madrid](https://www.42madrid.com/) and working towards my AWS Cloud certification. I have a passion for coding, problem-solving, and exploring new technologies. My goal is to leverage my skills to create innovative solutions that make a positive impact. Let's connect and collaborate on exciting projects!
+<div align="left">
+  
+  ✨ **I'm Jaime**, and my journey is a blend of digital harmony and software architecture.
+  
+  🎶 My original passion led me to earn a degree in **Music Production**, where I focused on tuning sounds and structuring compositions.
+  
+  ⚙️ Currently, I'm making an exciting transition into **Software Development** at **42 Madrid**, where I'm learning to build the symphony of code.
+  
+  ☁️ My ultimate goal is to become a **Cloud Architect**. That's why I'm focusing on mastering **multi-cloud solutions** (more clouds to fix!) and **Cisco networking**, building solid and well-connected foundations for the infrastructure of the future.
+  
+  <br>
+  
+  > *"From mixing tracks to orchestrating servers, there's always something to build!"*
+  
+</div>
 
-- 🌱 Currently learning: AWS Cloud services, advanced data structures, and algorithms.
-- 💬 Ask me about: My journey into software development, project collaborations, or anything tech-related!
-- 📫 How to reach me: [Gmail](mailto:llaime.gf@gmail.com)
-- 😄 Pronouns: He/Him
+---
 
-Let's code the future together!
+## 🛠️ Tech Stack
 
-
-<h2 align="left"> </h2>
 <div align="center">
-	
-| 💻 Project | 📝 Documentation | 💯 Score |
-|:------:|:-------:|:------------------:|
-| Libft | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Libft) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
-| Born2beroot | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Born2beRoot) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
-|  Get_next_line | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Get_next_line) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
-|  Ft_printf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Ft_printf) | [![114](https://img.shields.io/badge/114-2ea44f)]() |
-|  Fdf | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/JaigonzaDev/Fdf) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
-|  Push_swap | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)]() | - |
-|  Mini_talk | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)]() | - |
+  
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Lenguaje C"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Lenguaje C++"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Cloud"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cisco-1BA0D8?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes Cisco"></a>
 
 </div>
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/jaigonza?1337Badge=off&42Network=off&UM6P=off" alt="jaigonza's 42 stats" /></a>
-</p>
 
 
-<h2 align="left"> Tech Ski⛵️s <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ4dmFkcWpmdnNqMHU5b3k5d3ViOW5nMXlkcndiMGVueHU2eTR3NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gnahh8tvdlrymDpHB4/giphy.gif" width="50"/> </h2>
- 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Virtual Box](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
-<h2> G🦑thub information <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b7611rb9gi94sdzbz7x0k06bn3k484n2120uvfo4vjzlj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"/> </h2>
+## 📞 Contact
 
-[![JaigonzaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaigonzaDev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaigonzaDev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+<div align="center">
+  
+  <a href="http://www.linkedin.com/in/jaigonza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:llaime.gf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  
+  <br><br>
+
+</div>
+
